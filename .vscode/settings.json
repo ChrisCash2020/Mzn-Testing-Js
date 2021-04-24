@@ -1,0 +1,8 @@
+{
+    "typescript.format.semicolons": "insert",
+    "javascript.format.semicolons": "insert",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": null,
+    "editor.formatOnSave": true,
+    "prettier.jsxSingleQuote": true
+}
